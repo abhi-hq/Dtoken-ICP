@@ -1,3 +1,5 @@
+Refer this for Commands:
+
 # Check your Balance
 
 1. Find out your principal id:
